@@ -4,10 +4,10 @@ body {
     margin: 0px;
 }
 header {
-    border-bottom: solid 2px rgb(144, 42, 228);
+    border-bottom: solid 2px rgb(132, 33, 246);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(116, 42, 228);
 }
 section {
     background: rgb(19, 23, 33)
